@@ -75,7 +75,4 @@ A structured 2500+ word article with:
 - Future scope
 - Conclusion
 
-## Installation
 
-```bash
-pip install -r requirements.txt
