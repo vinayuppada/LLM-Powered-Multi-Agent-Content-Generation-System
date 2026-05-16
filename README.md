@@ -74,6 +74,10 @@ A structured article containing:
 [main.pdf](https://github.com/user-attachments/files/27843502/main.pdf)
 
 ##Plagiarism-report-by-smallseotools
+
 [Plagiarism-report-by-smallseotools.PDF](https://github.com/user-attachments/files/27843518/Plagiarism-report-by-smallseotools.PDF)
 
+##Duplichecker-Plagiarism-Report
+
+[Duplichecker-Plagiarism-Report.pdf](https://github.com/user-attachments/files/27843550/Duplichecker-Plagiarism-Report.pdf)
 
