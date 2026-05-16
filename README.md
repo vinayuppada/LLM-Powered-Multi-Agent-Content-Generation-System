@@ -69,3 +69,11 @@ A structured article containing:
 - Challenges
 - Future Scope
 - Conclusion
+
+##Output
+[main.pdf](https://github.com/user-attachments/files/27843502/main.pdf)
+
+##Plagiarism-report-by-smallseotools
+[Plagiarism-report-by-smallseotools.PDF](https://github.com/user-attachments/files/27843518/Plagiarism-report-by-smallseotools.PDF)
+
+
