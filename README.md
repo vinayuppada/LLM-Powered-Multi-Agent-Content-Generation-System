@@ -1,37 +1,12 @@
 # LLM-Powered Multi-Agent Content Generation System
 
 ## Overview
-This project is an LLM-powered multi-agent content generation system that automatically generates long-form structured articles (~2500 words) from user-provided topics.
+This project is an LLM-powered multi-agent content generation system that generates structured long-form articles (~2500 words) from user-provided topics using multiple AI agents.
 
-The system uses multiple AI agents to improve content quality, readability, and coherence by separating the workflow into specialized stages.
+## Objective
+Generate coherent, structured, and long-form articles using a multi-agent AI workflow.
 
-## Features
-- Multi-agent architecture
-- Long-form article generation
-- Topic-based research
-- Automatic outline generation
-- Human-like content writing
-- Quality checking
-- Context-aware generation
-- Reduced repetition
-
-## Multi-Agent Workflow
-
-Topic Input
-↓
-Research Agent
-↓
-Outline Agent
-↓
-Writer Agent
-↓
-Humanizer Agent
-↓
-Quality Checker
-↓
-Final Article Output
-
-## Tech Stack
+## Tools & Technologies
 - Python
 - LangChain
 - Groq API
@@ -40,39 +15,57 @@ Final Article Output
 - NLP
 - Jupyter Notebook
 
+## Multi-Agent Workflow
+
+Topic Input  
+↓  
+Research Agent  
+↓  
+Outline Agent  
+↓  
+Writer Agent  
+↓  
+Humanizer Agent  
+↓  
+Quality Checker Agent  
+↓  
+Final Article Output
+
 ## Agents Used
 
 ### Research Agent
-Collects topic-specific facts, examples, and concepts.
+Collects facts, concepts, examples, and topic-specific information.
 
 ### Outline Agent
-Generates structured article headings.
+Creates structured headings for the article.
 
 ### Writer Agent
-Creates section-wise article content.
+Generates section-wise content.
 
 ### Humanizer Agent
-Improves readability and writing flow.
+Improves readability and natural flow.
 
 ### Quality Checker Agent
-Evaluates coherence and quality.
+Analyzes article quality and coherence.
 
-## Project Objective
-To automate long-form content generation using a multi-agent AI pipeline for better structure, readability, and content quality.
+## Features
+- Long-form article generation (~2500 words)
+- Multi-agent AI workflow
+- Topic-based content generation
+- Reduced repetition
+- Structured output
+- Context-aware generation
 
-## Sample Use Case
+## Sample Input
 
-Input:
 Blockchain in Supply Chain
 
-Output:
-A structured 2500+ word article with:
+## Sample Output
+A structured article containing:
 - Introduction
-- Core concepts
+- Core Concepts
 - Applications
 - Benefits
 - Challenges
-- Future scope
+- Future Scope
 - Conclusion
-
-
